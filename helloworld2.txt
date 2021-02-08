@@ -1,8 +1,4 @@
 This is a redundant copy.
 I'm making another change.
-<<<<<<< HEAD
 And I'm back.
 Again.
-=======
-And I'm back at it.
->>>>>>> master
